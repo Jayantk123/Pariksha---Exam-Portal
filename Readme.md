@@ -1,5 +1,9 @@
 
 
+Pariksha - Exam Portal
+
+https://user-images.githubusercontent.com/58224270/148753233-f3d63ab1-f418-433c-903d-11daefab8dd7.mp4
+
 
 **Login and SignUp**
 
